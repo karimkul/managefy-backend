@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# macOS system files
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+
+# Build directories
+dist/
+build/
+
+# Optional: Debugger and IDE directories
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Optional: temporary files
+*.swp
+*.swo
+*.bak
+
+# Optional: coverage reports
+coverage/
+
+# Optional: package-lock files
+package-lock.json
+yarn.lock
+
